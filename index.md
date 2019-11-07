@@ -40,8 +40,6 @@
 <br>
 <input type="button" value="确认" onclick="MsgBox()">
 <script language="javascript" ;"="">
-function MsgBox() 
-
 {
 alert("调试成功，对局开始立即生效！"); 
 }
