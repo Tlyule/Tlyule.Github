@@ -2,8 +2,6 @@
 <html><head>
 <title>天龙娱乐综合服务办理客服端</title>
 </head><body style="background-image:url(zhuye.png)">
-
-
 <br>
 <br>
 <br>
@@ -41,8 +39,6 @@
 	</select>
 <br>
 <input type="button" value="确认" onclick="MsgBox()">
-
-
 <script language="javascript" ;"="">
 function MsgBox() 
 
@@ -51,6 +47,6 @@ alert("调试成功，对局开始立即生效！");
 }
 </script>
 </font></font></font></font></div><font size="4"><font size="4"><font size="4">
-
-
-</font></font></font></font></big></font></body></html>
+</font></font></font></font></big></font>
+</body>
+</html>
